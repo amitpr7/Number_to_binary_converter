@@ -1,0 +1,29 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#container {
+  background-color: purple;
+  color: white;
+  margin: 10rem auto;
+  padding: 50px;
+  align-items: center;
+  justify-content: center;
+  display: block;
+  width: 50%;
+}
+
+.child {
+  text-align: center;
+  padding: 5rem;
+}
+
+input {
+  margin: 5px;
+}
+
+.inputs {
+  margin: 5px;
+  display: flex;
+}
